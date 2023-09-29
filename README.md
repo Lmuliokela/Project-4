@@ -50,8 +50,8 @@ from sklearn.metrics import balanced_accuracy_score, confusion_matrix, classific
 
 ## Analysis Presentation file
 
--
-
+- [PPT](./Project%204/Powerpoint.pptx)
+  
 ---
 
 ## Data Prep and Analysis Steps
