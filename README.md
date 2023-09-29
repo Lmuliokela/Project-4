@@ -72,7 +72,7 @@
 ## Data Prep Analysis and Building ML Model
 
 - Loaded the CSV file  located on kaggle.com
-- Split the Data into Training and Testing Sets¶
+- Split the Data into Training and Testing Sets
 - Step 1: Read the data from the Resources folder into a Pandas DataFrame
 - Step 2: Create the labels set (y) from the “Survival” column, and then create the features (X) DataFrame from the remaining columns
 - Step 3: Check the balance of the labels variable (y) by using the value_counts function
