@@ -69,7 +69,7 @@
   
 ---
 
-## Data Prep and Analysis Steps
+## Data Prep Analysis and Building ML Model
 
 - Loaded the CSV file  located on kaggle.com
 - Split the Data into Training and Testing Sets¶
