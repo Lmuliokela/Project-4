@@ -105,6 +105,34 @@ from sklearn.metrics import balanced_accuracy_score, confusion_matrix, classific
 
 - About 40% of the passengers were travelling with family.  Our data was broken into a group of Sibling/Spouse and then a group with passengers travelling with a Parent/Child(ren).  We grouped these two categories into a “Family” category.   Fiancés, Mistresses, or nannies did not count towards this “family” category.
 
+**Fare Distribution**
+
+![Fare Distribution](Project%204/Exploratory%20analysis%20charts/Fare%20Distribution.png)
+
+- 347 people paid between $5 and $10. 24% of Titanic Passengers paid approximately $7 for their fare, which is worth $221 today.The highest fare, $512, is worth over $16,000 today.
+
+**Departure City**
+![Departure City](Project%204/Exploratory%20analysis%20charts/Departure%20City.png)
+
+- The Departure cities were Southampton, England, Cherbourg, France, and Queenstown, Ireland, which is Cobh, Ireland today.  72% of the passengers boarded in Southampton, England, which was the first port of the maiden voyage.
+
+**Passenger Class Distribution**
+![Passenger Class Distribution](Project%204/Exploratory%20analysis%20charts/Passenger%20Class%20Distribution.png)
+
+- More Upper Class survived than perished, and more than 3x as many Lower Class passengers died than they did survive.  It was about equal for Middle Class, though a few more died than survived. 
+
+**Did Not Survive by Fare**
+![Did Not Survive by Fare](Project%204/Exploratory%20analysis%20charts/Did%20Not%20Survive%20by%20Fare.png)
+
+- Over half (52%) of those who died in the sinking paid $10 or under.  Almost all of those who were riding for free died, and then the largest ticket group – those who paid $5 to $10 – 78% of those passengers died.  Once we hit about $71 per ticket ($2,285 today), more survived than died.
+
+**Survival by Gender**
+![Survival by Gender](Project%204/Exploratory%20analysis%20charts/Survival%20by%20Gender.png)
+
+- 81% of the males and 1/4  of the females died.
+
+
+
 
 
 
