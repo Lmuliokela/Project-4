@@ -51,7 +51,7 @@ from sklearn.metrics import balanced_accuracy_score, confusion_matrix, classific
 ## Analysis Presentation file
 
 - [PPT](./Project%204/Powerpoint.pptx)
-- [Tableau visualizations link](https://github.com/Lmuliokela/Project-4/assets/130711188/5579d07d-38ef-49a1-ba8b-cef1b7f728b3)
+- [Tableau visualizations link](https://public.tableau.com/app/profile/emily.rusin/viz/Project_4_16953464445020/GenderbySocio-EconomicClass?publish=yes)
   
 ---
 
