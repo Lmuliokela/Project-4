@@ -150,7 +150,11 @@
 
 In our exploration of the predictive efficacy of gender and socio-economic status, our analysis reveals a noteworthy finding. The results indicate that gender emerged as the more influential factor in our model's predictive capabilities for survival rates, overshadowing the impact of socio-economic status.
 
+---
 
+## References
 
+- Data for the csv file "Training set(train.csv)" was imported from https://www.kaggle.com
+- Used Module 20 challenge as a template for the logistic regression model
 
 
