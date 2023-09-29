@@ -86,13 +86,13 @@ from sklearn.metrics import balanced_accuracy_score, confusion_matrix, classific
   ## Insights
 
   **Age group and gender distribution**
-  
+  ![Age Group and Gender Distribution](Project%204/Exploratory%20analysis%20charts/Age%20Group%20and%20Gender%20Distribution.png)
 
+- 64% of the passengers were male, mainly in the adult age range, which is 18 to 65 years old.  There were only 11 people over 65 (all male) and 7% were children.  We did not know the age of about 20% of the passengers.
 
+**Age Group and By Socio-Economic Class**
+ ![Age Group and By Socio-Economic Class](Project%204/Exploratory%20analysis%20charts/Age%20Group%20and%20By%20Socio-Economic%20Class.png)
 
-
-
-
-
+- The lower-class passengers made up for the largest group of people onboard the Titanic.  There were very few children and teenagers in the Upper Class, with almost all the Senior passengers existing in the Upper Class.
 
 
