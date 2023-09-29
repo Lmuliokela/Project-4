@@ -131,12 +131,15 @@ from sklearn.metrics import balanced_accuracy_score, confusion_matrix, classific
 
 - 81% of the males and 1/4  of the females died.
 
+**Did Not Survive by Socio-Economic Class**
+![Did Not Survive by Socio-Economic Class](Project%204/Exploratory%20analysis%20charts/Did%20Not%20Survive%20by%20Socio-Economic%20Class.png)
 
+- When looking at the total breakdown of people who died aboard the Titanic, almost 70% were lower class.  This would be expected.  It’s possible that the lower-class passengers had lower cabins and therefore were not granted initial seats on lifeboats.  More than likely, the wealthy were given precedent and their lives were perceived as more valuable.
 
+**Did Not Survive by Age Group and Gender**
+![Did Not Survive by Age Group and Gender](Project%204/Exploratory%20analysis%20charts/Did%20Not%20Survive%20by%20Age%20Group%20and%20Gender.png)
 
-
-
-
+- The adult age group was the largest and had the largest number of deaths.  Almost all the passengers over 65 died (only 1 survived).  The youngest person to die was only 1 year old and the oldest passenger was 74.
 
 
 
