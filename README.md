@@ -95,4 +95,24 @@ from sklearn.metrics import balanced_accuracy_score, confusion_matrix, classific
 
 - The lower-class passengers made up for the largest group of people onboard the Titanic.  There were very few children and teenagers in the Upper Class, with almost all the Senior passengers existing in the Upper Class.
 
+**Gender by Socio-Economic Class**
+![Gender by Socio-Economic Class](Project%204/Exploratory%20analysis%20charts/Gender%20by%20Socio-Economic%20Class.png)
+
+- There were 577 males onboard and 314 females.  60% of the males were in the Lower Class while 46% of the females were categorized as lower class.  The females were more balanced in their status compared to the males.
+
+**Family Onboard**
+![Family Onboard](Project%204/Exploratory%20analysis%20charts/Family%20Onboard.png)
+
+- About 40% of the passengers were travelling with family.  Our data was broken into a group of Sibling/Spouse and then a group with passengers travelling with a Parent/Child(ren).  We grouped these two categories into a “Family” category.   Fiancés, Mistresses, or nannies did not count towards this “family” category.
+
+
+
+
+
+
+
+
+
+
+
 
