@@ -24,10 +24,13 @@
 
 ## Dependencies
 
-import numpy as np
-import pandas as pd
-from pathlib import Path
-from sklearn.metrics import balanced_accuracy_score, confusion_matrix, classification_report
+   import numpy as np
+   
+   import pandas as pd
+   
+   from pathlib import Path
+   
+   from sklearn.metrics import balanced_accuracy_score, confusion_matrix, classification_report
 
 ## Input Files
 
