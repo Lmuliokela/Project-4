@@ -44,8 +44,19 @@ from sklearn.metrics import balanced_accuracy_score, confusion_matrix, classific
   ---
 
 ## Exploratory Analysis Charts
-- 
 
+- Age Group and Gender Distribution.png
+- Age Group and By Socio-Economic Class.png
+- Gender by Socio-Economic Class.png
+- Family Onboard.png
+- Fare Distribution.png
+- Departure City.png
+- Passenger Class Distribution.png
+- Did Not Survive by Fare.png
+- Survival by Gender.png
+- Did Not Survive by Socio-Economic Class.png
+- Did Not Survive by Age Group and Gender.png
+  
 ---
 
 ## Analysis Presentation file
