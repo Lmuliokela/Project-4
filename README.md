@@ -9,6 +9,16 @@
 ---
 
 ## Directory
+1. [Project Description](#Project-Description) 
+2. [Setup](#Setup)
+3. [Dependencies](#Dependencies)
+4. [Input Files](#Input-Files)
+5. [Tableau Visualizations and Jupyter Notebook Files](#Tableau-Visualizations-and-upyter-Notebook-Files)
+6. [Exploratory Analysis Charts](#Exploratory-Analysis-Charts)
+7. [Analysis Presentation files](#Analysis-Presentation-files)
+8. [Data Prep Analysis and Building ML Model](#Data-Prep-Analysis-and-Building-ML-Model)
+9. [Conclusion](#Conclusion)
+10. [References](#References)
 
 ---
 
@@ -62,7 +72,7 @@
   
 ---
 
-## Analysis Presentation file
+## Analysis Presentation files
 
 - [PPT](./Project%204/Powerpoint.pptx)
 - [Tableau visualizations link](https://public.tableau.com/app/profile/emily.rusin/viz/Project_4_16953464445020/GenderbySocio-EconomicClass?publish=yes)
