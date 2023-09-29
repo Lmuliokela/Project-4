@@ -141,7 +141,9 @@ from sklearn.metrics import balanced_accuracy_score, confusion_matrix, classific
 
 - The adult age group was the largest and had the largest number of deaths.  Almost all the passengers over 65 died (only 1 survived).  The youngest person to die was only 1 year old and the oldest passenger was 74.
 
+## Conclusion
 
+In our exploration of the predictive efficacy of gender and socio-economic status, our analysis reveals a noteworthy finding. The results indicate that gender emerged as the more influential factor in our model's predictive capabilities for survival rates, overshadowing the impact of socio-economic status.
 
 
 
