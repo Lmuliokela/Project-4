@@ -42,6 +42,8 @@
    
    from sklearn.metrics import balanced_accuracy_score, confusion_matrix, classification_report
 
+---
+
 ## Input Files
 
 - Training set (train.csv) - dataset representing outcome for each passenger.
@@ -54,7 +56,7 @@
 - titanic_survival_classification_no_pclass.ipynb
 - titanic_survival_classification_no_null.ipynb
   
-  ---
+---
 
 ## Exploratory Analysis Charts
 
@@ -95,6 +97,8 @@
 - Step 1: Use the RandomOverSampler module from the imbalanced-learn library to resample the data. Be sure to confirm that the labels have an equal number of data points
 - Step 2: Use the LogisticRegression classifier and the resampled data to fit the model and make predictions
 - Step 3: Evaluate the model’s performance by doing the following
+
+---
 
   ## Insights
 
